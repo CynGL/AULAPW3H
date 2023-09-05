@@ -8,8 +8,8 @@
     $valor2 = new Conta();
 
     //atribuir valores
-    $valor1->nome = "Jacinto Passos";
-    $valor1->saldo = 3.14159265359;
+    $valor1->nome = "Cyntia Garcete Lino";
+    $valor1->saldo = 3.500;
 
   
 
