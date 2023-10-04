@@ -8,32 +8,32 @@
 			protected 	$salario;
 
 
-		    public function setCodigo($codigo) {
+		    function setCodigo($codigo) {
 		        $this->codigo = $codigo;
 		    }
 
 		    
-		    public function getCodigo() {
+		    function getCodigo() {
 		        return $this->codigo;
 		    }
 
 		    
-		    public function setNome($nome) {
+		    function setNome($nome) {
 		        $this->nome = $nome;
 		    }
 
 		   
-		    public function getNome() {
+		     function getNome() {
 		        return $this->nome;
 		    }
 
 		    
-		    public function setNascimento($nascimento) {
+		    function setNascimento($nascimento) {
 		        $this->nascimento = $nascimento;
 		    }
 
 		    
-		    public function getNascimento() {
+		    function getNascimento() {
 		        return $this->nascimento;
 		    }
 
